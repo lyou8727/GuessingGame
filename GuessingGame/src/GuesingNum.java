@@ -1,3 +1,4 @@
+/*Hi Leon*/
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class GuesingNum 
