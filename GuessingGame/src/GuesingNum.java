@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /*L update */
+=======
+/*H update*/
+>>>>>>> refs/remotes/origin/master
 /*Hi Leon*/
 import java.util.Scanner;
 import java.util.InputMismatchException;
