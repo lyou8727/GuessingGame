@@ -6,7 +6,7 @@ public class GuesingNum
 {
 	public static void main (String[]args)
 	{
-		/*changee*/
+		/*changeeee*/
 		/**
 		Scanner input = new Scanner(System.in);
 		System.out.println("Hello, what is your name?");
